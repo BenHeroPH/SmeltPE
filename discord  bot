@@ -1,1 +1,9 @@
+#include <iostream>
 
+using namespace std;
+//lolo mo
+int what(){
+cout << "WHAT IS THIS?" << endl;
+
+return 0;
+}
